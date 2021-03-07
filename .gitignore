@@ -1,0 +1,11 @@
+/*
+!.gitignore
+!LICENSE
+!README.md
+
+!/*shell
+#
+/*shell/*Cloud*/*
+!/*shell/*Cloud*/*.sh
+!/*shell/*Cloud*/*.ps1
+!/*shell/*Cloud*/config.json-
